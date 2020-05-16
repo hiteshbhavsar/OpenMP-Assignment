@@ -1,3 +1,11 @@
+/*******************************************************************************
+	OpenMP Assignment 
+	(Demonstrates a matrix multiply using OpenMP.)
+	File: OpenMPAssignment.cpp
+	Author: Hitesh Bhavsar 
+	Last Revised: 05/15/2020
+******************************************************************************/
+
 	// OpenMP Code for matrix multiplication
 	// to compute the multiplication of two arrays in parallel
 	#include "stdafx.h"
